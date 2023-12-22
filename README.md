@@ -36,7 +36,8 @@ In Indonesia, the increasing textile waste due to fast fashion poses a significa
   - Figma
   - Android Studio
   - Kotlin
-  - Firebase
+  - Retrofit
+  - RestApi
 
 - **Cloud Computing:**
   - Google Cloud Platform (GCP)
