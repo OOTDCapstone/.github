@@ -18,12 +18,12 @@ In Indonesia, the increasing textile waste due to fast fashion poses a significa
 
 | Student ID  | Member                        | Path                | GitHub                                                    |
 | :---------: | :---------------------------: |:-----------------:  | :--------------------------------------------------------:|
-| OOTD174B029 | Ananda Pannadhika Putra       | Machine Learning    | [@anandaputra](https://github.com/Panandika)              |
+| OOTD174B029 | Ananda Pannadhika Putra       | Machine Learning    | [@Panandika](https://github.com/Panandika)              |
 | OOTD174B016 | I Gusti Putu Agung Wahyu SP   | Machine Learning    | [@agungwahyu](https://github.com/agungwahyu)              |
-| OOTD403B017 | Rama Firdaus                  | Machine Learning    | [@ramafirdaus](https://github.com/buburayamhunter)        |
-| OOTD014B122 | Rachmad Juniandrya            | Cloud Computing     | [@rachmadj](https://github.com/juniandrya)                |
-| OOTD014B382 | Muhammad Farhan               | Cloud Computing     | [@muhammadfarhan](https://github.com/muhammadfarhan22)    |
-| OOTD403B609 | Eka Bayu Suputra              | Mobile Development  | [@ekabayu](https://github.com/EkaBayu)                    |
+| OOTD403B017 | Rama Firdaus                  | Machine Learning    | [@buburayamhunter](https://github.com/buburayamhunter)        |
+| OOTD014B122 | Rachmad Juniandrya            | Cloud Computing     | [@juniandrya](https://github.com/juniandrya)                |
+| OOTD014B382 | Muhammad Farhan               | Cloud Computing     | [@muhammadfarhan22](https://github.com/muhammadfarhan22)    |
+| OOTD403B609 | Eka Bayu Suputra              | Mobile Development  | [@EkaBayu](https://github.com/EkaBayu)                    |
 | OOTD278B172 | Goldy Pongkaraeng Pasulu      | Mobile Development  | [@goldypasulu](https://github.com/goldypasulu)            |
 
 ## 🛠 Built with:
