@@ -18,13 +18,13 @@ In Indonesia, the increasing textile waste due to fast fashion poses a significa
 
 | Student ID  | Member                        | Path                | GitHub                                                    |
 | :---------: | :---------------------------: |:-----------------:  | :--------------------------------------------------------:|
-| OOTD174B029 | Ananda Pannadhika Putra       | Machine Learning    | [@Panandika](https://github.com/Panandika)              |
-| OOTD174B016 | I Gusti Putu Agung Wahyu SP   | Machine Learning    | [@agungwahyu](https://github.com/agungwahyu)              |
-| OOTD403B017 | Rama Firdaus                  | Machine Learning    | [@buburayamhunter](https://github.com/buburayamhunter)        |
-| OOTD014B122 | Rachmad Juniandrya            | Cloud Computing     | [@juniandrya](https://github.com/juniandrya)                |
-| OOTD014B382 | Muhammad Farhan               | Cloud Computing     | [@muhammadfarhan22](https://github.com/muhammadfarhan22)    |
-| OOTD403B609 | Eka Bayu Suputra              | Mobile Development  | [@EkaBayu](https://github.com/EkaBayu)                    |
-| OOTD278B172 | Goldy Pongkaraeng Pasulu      | Mobile Development  | [@goldypasulu](https://github.com/goldypasulu)            |
+| M014BSY0915 | Ananda Pannadhika Putra       | Machine Learning    | [@Panandika](https://github.com/Panandika)              |
+| M014BSY1066 | I Gusti Putu Agung Wahyu SP   | Machine Learning    | [@agungwahyu](https://github.com/agungwahyu)              |
+| M258BSY1479 | Rama Firdaus                  | Machine Learning    | [@buburayamhunter](https://github.com/buburayamhunter)        |
+| C193BSY3773 | Rachmad Juniandrya            | Cloud Computing     | [@juniandrya](https://github.com/juniandrya)                |
+| C193BSY3419 | Muhammad Farhan               | Cloud Computing     | [@muhammadfarhan22](https://github.com/muhammadfarhan22)    |
+| A350BSY2953 | Eka Bayu Suputra              | Mobile Development  | [@EkaBayu](https://github.com/EkaBayu)                    |
+| A244BSY2845 | Goldy Pongkaraeng Pasulu      | Mobile Development  | [@goldypasulu](https://github.com/goldypasulu)            |
 
 ## 🛠 Built with:
 
