@@ -1,5 +1,5 @@
 # Outfit Of The Day App (OOTD) - Sustainable Fashion Through Technology 👋
-## Team ID: OOTD-C23-2023
+## Team ID: CH2-PS383
 
 This project is developed as a part of our innovative approach to promoting sustainable fashion practices.
 
@@ -52,9 +52,9 @@ In Indonesia, the increasing textile waste due to fast fashion poses a significa
 ## 🔗 Repository Branches
 
 In our project, the development is divided into three main branches:
-  - [AI & Machine Learning](-)
-  - [Cloud Computing](-)
-  - [Mobile Development](-)
+  - [AI & Machine Learning](https://github.com/OOTDCapstone/OOTD-ML)
+  - [Cloud Computing](https://github.com/OOTDCapstone/CC)
+  - [Mobile Development](https://github.com/OOTDCapstone/OOTD)
 
 # 🔥 Supported By:
 
