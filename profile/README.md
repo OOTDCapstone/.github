@@ -19,7 +19,7 @@ In Indonesia, the increasing textile waste due to fast fashion poses a significa
 | Student ID  | Member                        | Path                | GitHub                                                    |
 | :---------: | :---------------------------: |:-----------------:  | :--------------------------------------------------------:|
 | M014BSY0915 | Ananda Pannadhika Putra       | Machine Learning    | [@Panandika](https://github.com/Panandika)              |
-| M014BSY1066 | I Gusti Putu Agung Wahyu Sentana Putra   | Machine Learning    | [@agungwahyu](https://github.com/agungwahyu)              |
+| M014BSY1066 | I Gusti Putu Agung Wahyu Sentana Putra   | Machine Learning    | [@AgungWahyuza](https://github.com/AgungWahyuza)              |
 | M258BSY1479 | Rama Firdaus                  | Machine Learning    | [@buburayamhunter](https://github.com/buburayamhunter)        |
 | C193BSY3773 | Rachmad Juniandrya            | Cloud Computing     | [@juniandrya](https://github.com/juniandrya)                |
 | C193BSY3419 | Muhammad Farhan               | Cloud Computing     | [@muhammadfarhan22](https://github.com/muhammadfarhan22)    |
